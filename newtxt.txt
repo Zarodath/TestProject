@@ -3,7 +3,7 @@ zdr kp
 n6 tbh
 
 
-<<<<<<< HEAD
+
 
 
 
@@ -11,7 +11,7 @@ n6 tbh
 
 
 what happen
-=======
+
 this is from the testbranch asd
 third try
->>>>>>> TestBranch
+
